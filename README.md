@@ -45,7 +45,7 @@ return arrayOfObjects.map((a) => a[propertyToExtract]);
 2. Provide the inputs
    1. ListOfObjects: A List of objects (e.g. text, value pairs, for example)
    2. PropertyToExtract: The name of the property to extract into a separate List (e.g. value)
-3. The script returns the extracted property as a simple list
+3. The script returns the extracted property as a simple List of type "Any"
 
 ## Working with Stadium Repos
 Stadium Repos are not static. They change as additional features are added and bugs are fixed. Using the right method to work with Stadium Repos allows for upgrading them in a controlled manner. How to use and update application repos is described here 
