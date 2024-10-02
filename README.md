@@ -1,10 +1,10 @@
 # Extract Property As Array <!-- omit in toc -->
 
-This module allows you to extract a property from a List of objects. Usde it when you have a List of objects, but you only want one of the properties. 
+This module allows you to extract a property from a List of objects. Use it when you have a List of objects, but you only want one of the properties. 
 
 Original
 ```javascript
-[{name: "myname", value: 1}, {name: "anothername", value: 2}]
+[{text: "Cape Town", value: 1}, {text: "Johannesburg", value: 2}]
 ```
 
 Result
