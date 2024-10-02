@@ -38,6 +38,8 @@ return arrayOfObjects.map((a) => a[propertyToExtract]);
    1. Target: ~.Parameters.Output.Result
    2. Source: ~.JavaScript
 
+![](images/ScriptView.png)
+
 ## Event Handler or Script
 1. Drag the "ExtractPropertyAsArray" into an event handler or script
 2. Provide the inputs
